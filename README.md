@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/shalikus-banner.png" alt="shalikus" width="100%">
-
 # shalikus
 
 ### Backend Developer · TypeScript · NestJS · PostgreSQL
