@@ -7,8 +7,6 @@
 Building clean systems, useful developer tools, and software that solves real
 problems.
 
-[Telegram](#) · [Repositories](https://github.com/shalikus?tab=repositories)
-
 </div>
 
 ---
